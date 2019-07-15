@@ -1,11 +1,11 @@
 # Site settings
-title: rednot.es
+title: trop.in
 email: andrewtropin@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-    just another clojure, emacs, vim, gentoo linux, opensource, self-improvement blog
+    just another clojure, emacs, vim, linux, opensource, self-improvement blog
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://rednot.es" # the base hostname & protocol for your site
-twitter_username: '0x07ffff7df07c0'
+url: "http://trop.in" # the base hostname & protocol for your site
+twitter_username: 'andrewtropin'
 github_username: abcdw
 superuser: Andrew Tropin
 

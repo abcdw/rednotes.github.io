@@ -1,4 +1,4 @@
-rednotes.github.io
+trop.in
 ==================
 
 Nothing special, just small github pages blog
