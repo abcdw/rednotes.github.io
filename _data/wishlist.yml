@@ -1,4 +1,4 @@
-- name: Cirque du soleil tickets 
+- name: Cirque du soleil tickets
   description: билетики в цирк, не принципиально в каком городе
   url: https://www.cirquedusoleil.com/
 
@@ -9,20 +9,13 @@
 - name: Турник
   description: турник, который можно повешать в дверной проём
 
-- name: Logitech G640
-  description: ковёр, чтобы тащить ещё сильнее, нравится больше, чем остальные
-  url: https://www.logitechg.com/en-us/product/g640-cloth-gaming-mouse-pad
-
-- name: Razer goliathus control medium
-  description: ковёр, чтобы тащить ещё сильнее
-  url: https://www.razerzone.com/gaming-mouse-mats/razer-goliathus-control
+- name: Рюкзак
+  description: простой, стильный и функциональный
+  url: https://www.amazon.com/Peak-Design-Everyday-Backpack-Charcoal/dp/B01M5JDXG7?th=1
 
 - name: a4 ereader
   description: e-ink devices is good, but need larger screen for scientific books/pdfs
   url: http://blog.the-ebook-reader.com/2017/06/24/sony-dpt-rp1-vs-onyx-boox-max-carta-comparison/
-
-- name: Nice domain name
-  description: trop.in for example
 
 - name: Книги
   description: любые интересные книги, лучше бумажные, но и электронные - нормалёк
@@ -46,7 +39,7 @@
   url: https://www.amazon.com/Lisp-Advanced-Techniques-Common/dp/0130305529
 
 - name: Наушники
-  description: хорошие наушники, не сильно важно вкладыши или здоровенные, главное хорошие
+  description: хорошие наушники, не сильно важно вкладыши или здоровенные, главное хорошие, можно беспроводные
   url: http://www.icover.ru/catalog/product/sennheiser_hd_558_nakladnye_naushniki_black/?_openstat=bWFya2V0LnlhbmRleC5ydTtTZW5uaGVpc2VyIEhEIDU1OCAtINC90LDQutC70LDQtNC90YvQtSDQvdCw0YPRiNC90LjQutC4IChCbGFjayk7VXk3YUc3b1QzTFZVbmtoTWlvcmdRZzs&r1=yandexm&utm_campaign=ymarket&utm_content=87551&utm_medium=cpc&utm_source=ymarket&utm_term=87551&ymclid=64981396381332348400002
 
 - name: SmartWatch
@@ -58,6 +51,10 @@
   url: http://army-news.ru/2014/11/xolodnoe-oruzhie-anatomiya-skladnogo-nozha/
 
 # Performed
+
+- name: Nice domain name
+  description: trop.in for example
+  performer: abcdw
 
 - name: Programming Clojure (3rd edition)
   description: good and solid book about wonderful language
