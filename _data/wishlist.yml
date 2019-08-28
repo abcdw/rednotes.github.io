@@ -1,3 +1,7 @@
+- name: Огромный тестер на 72 свитча
+  description: мне нравятся тактильные и кликающие, хотел бы попробовать зилосы, сайлент брауны
+  url: https://ru.aliexpress.com/item/32968319528.html
+
 - name: Cirque du soleil tickets
   description: билетики в цирк, не принципиально в каком городе
   url: https://www.cirquedusoleil.com/
@@ -10,7 +14,7 @@
   description: турник, который можно повешать в дверной проём
 
 - name: Рюкзак
-  description: простой, стильный и функциональный
+  description: простой, стильный, функциональный и крайне желательно эргономичный
   url: https://www.amazon.com/Peak-Design-Everyday-Backpack-Charcoal/dp/B01M5JDXG7?th=1
 
 - name: a4 ereader
