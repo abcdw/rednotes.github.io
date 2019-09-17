@@ -8,15 +8,20 @@ permalink: /about
 
 <img src="/downloads/photo.jpg" align="right" width="200px">
 
-полезные ссылки:
-* [github][] - мой гитхаб
-* [vk][] - вк
-* [telegram][] - канал в телеграм
+Мои соцсеточки:
+* [youtube][]
+* [telegram][]
+* [github][]
+* [instagram][]
+* [vk][]
 
 
 
 
 
-[vk]:       https://vk.com/abcdw
+
+[telegram]: https://t.me/politeshaco
+[youtube]:   https://youtube.com/c/AndrewTropin
 [github]:   https://github.com/abcdw
-[telegram]: https://t.me/politeshace
+[instagram]:   https://instagram.com/andrewtropin
+[vk]:       https://vk.com/abcdw
