@@ -2,6 +2,14 @@
   description: мне нравятся тактильные и кликающие, хотел бы попробовать зилосы, сайлент брауны
   url: https://ru.aliexpress.com/item/32968319528.html
 
+- name: Звуковая карта
+  description: focusrite scarlett 2i2 (3rd gen) скорее всего (хотя недостаёт крутилки для loopback)
+  url: https://youtu.be/b7wwjHnT6WE
+
+- name: Наушники
+  description: открытые мониторы типа hd6xx или аналогичные
+  url: http://www.icover.ru/catalog/product/sennheiser_hd_558_nakladnye_naushniki_black/?_openstat=bWFya2V0LnlhbmRleC5ydTtTZW5uaGVpc2VyIEhEIDU1OCAtINC90LDQutC70LDQtNC90YvQtSDQvdCw0YPRiNC90LjQutC4IChCbGFjayk7VXk3YUc3b1QzTFZVbmtoTWlvcmdRZzs&r1=yandexm&utm_campaign=ymarket&utm_content=87551&utm_medium=cpc&utm_source=ymarket&utm_term=87551&ymclid=64981396381332348400002
+
 - name: Cirque du soleil tickets
   description: билетики в цирк, не принципиально в каком городе
   url: https://www.cirquedusoleil.com/
@@ -41,10 +49,6 @@
 - name: On Lisp
   description: Advanced Techniques for Common Lisp
   url: https://www.amazon.com/Lisp-Advanced-Techniques-Common/dp/0130305529
-
-- name: Наушники
-  description: хорошие наушники, не сильно важно вкладыши или здоровенные, главное хорошие, можно беспроводные
-  url: http://www.icover.ru/catalog/product/sennheiser_hd_558_nakladnye_naushniki_black/?_openstat=bWFya2V0LnlhbmRleC5ydTtTZW5uaGVpc2VyIEhEIDU1OCAtINC90LDQutC70LDQtNC90YvQtSDQvdCw0YPRiNC90LjQutC4IChCbGFjayk7VXk3YUc3b1QzTFZVbmtoTWlvcmdRZzs&r1=yandexm&utm_campaign=ymarket&utm_content=87551&utm_medium=cpc&utm_source=ymarket&utm_term=87551&ymclid=64981396381332348400002
 
 - name: SmartWatch
   description: хочется побаловаться с какими-нибудь умными часами
