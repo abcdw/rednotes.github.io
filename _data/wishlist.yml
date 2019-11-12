@@ -1,9 +1,5 @@
-- name: Огромный тестер на 72 свитча
-  description: мне нравятся тактильные и кликающие, хотел бы попробовать зилосы, сайлент брауны
-  url: https://ru.aliexpress.com/item/32968319528.html
-
 - name: Звуковая карта
-  description: focusrite scarlett 2i2 (3rd gen) скорее всего (хотя недостаёт крутилки для loopback)
+  description: focusrite scarlett 2i2 (3rd gen) (хотя недостаёт крутилки для loopback) или steinberg ur22c (тяжелее и по характеристикам чуть хуже, но зато есть крутилка)
   url: https://youtu.be/b7wwjHnT6WE
 
 - name: Наушники
@@ -22,7 +18,7 @@
   description: турник, который можно повешать в дверной проём
 
 - name: Рюкзак
-  description: простой, стильный, функциональный и крайне желательно эргономичный
+  description: простой, стильный, функциональный и крайне желательно эргономичный для таскания видеотехники
   url: https://www.amazon.com/Peak-Design-Everyday-Backpack-Charcoal/dp/B01M5JDXG7?th=1
 
 - name: a4 ereader
@@ -59,6 +55,11 @@
   url: http://army-news.ru/2014/11/xolodnoe-oruzhie-anatomiya-skladnogo-nozha/
 
 # Performed
+
+- name: Огромный тестер на 72 свитча
+  description: мне нравятся тактильные и кликающие, хотел бы попробовать зилосы, сайлент брауны
+  url: https://ru.aliexpress.com/item/32968319528.html
+  performer: abcdw
 
 - name: Nice domain name
   description: trop.in for example
