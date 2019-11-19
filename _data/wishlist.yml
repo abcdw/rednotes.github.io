@@ -1,9 +1,15 @@
+- name: Любой арт для trop.in/*
+  description: набор стикеров в тг, превьюшки для видосов, шапка для канала
+
+- name: Rick and Morty
+  description: всякие прикольные штуки, наклейки, комиксы, плакаты
+
 - name: Звуковая карта
   description: focusrite scarlett 2i2 (3rd gen) (хотя недостаёт крутилки для loopback) или steinberg ur22c (тяжелее и по характеристикам чуть хуже, но зато есть крутилка)
   url: https://youtu.be/b7wwjHnT6WE
 
 - name: Наушники
-  description: открытые мониторы типа hd6xx или аналогичные
+  description: открытые мониторы типа hd6xx или аналогичные, удобные
   url: http://www.icover.ru/catalog/product/sennheiser_hd_558_nakladnye_naushniki_black/?_openstat=bWFya2V0LnlhbmRleC5ydTtTZW5uaGVpc2VyIEhEIDU1OCAtINC90LDQutC70LDQtNC90YvQtSDQvdCw0YPRiNC90LjQutC4IChCbGFjayk7VXk3YUc3b1QzTFZVbmtoTWlvcmdRZzs&r1=yandexm&utm_campaign=ymarket&utm_content=87551&utm_medium=cpc&utm_source=ymarket&utm_term=87551&ymclid=64981396381332348400002
 
 - name: Cirque du soleil tickets
